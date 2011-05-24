@@ -1,0 +1,142 @@
+.afs-droid-serif { font-family: "Droid Serif", "Georgia", "Times New Roman", "Palatino", "Hoefler Text", "Baskerville", serif; ;}
+
+.afs-fontin-sans { font-family: "Fontin Sans", "Lucida Grande", "Arial", "Helvetica", "Verdana", "Gill Sans", sans-serif; font-size: 1.061em;}
+
+.afs-kontrapunkt { font-family: "Kontrapunkt", Rockwell, serif; font-size: 1.153em;}
+
+.afs-droid-sans-mono { font-family: "Droid Sans Mono", Menlo, Courier New, Courier, Mono, monospace; font-size: 1.000em;}
+
+
+@font-face {
+	
+	font-family: 'Droid Serif';
+	src: url('../fonts/DroidSerif/DroidSerif-Bold-webfont.eot?') format('eot');
+	src: url('../fonts/DroidSerif/DroidSerif-Bold-webfont.woff') format('woff'), 		url('../fonts/DroidSerif/DroidSerif-Bold-webfont.ttf') format('truetype'), 		url('../fonts/DroidSerif/DroidSerif-Bold-webfont.svg#webfontX4pGz9fc')format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+
+
+@font-face {
+	
+	font-family: 'Droid Serif';
+	src: url('../fonts/DroidSerif/DroidSerif-BoldItalic-webfont.eot?') format('eot');
+	src: url('../fonts/DroidSerif/DroidSerif-BoldItalic-webfont.woff') format('woff'), 
+		url('../fonts/DroidSerif/DroidSerif-BoldItalic-webfont.ttf') format('truetype'), 
+		url('../fonts/DroidSerif/DroidSerif-BoldItalic-webfont.svg#webfontX4pGz9fc') format('svg');
+	font-weight: 700;
+	font-style: italic;
+}
+
+@font-face {
+	
+	font-family: 'Droid Serif';
+	src: url('../fonts/DroidSerif/DroidSerif-Italic-webfont.eot?') format('eot');
+	src: url('../fonts/DroidSerif/DroidSerif-Italic-webfont.woff') format('woff'), 
+		url('../fonts/DroidSerif/DroidSerif-Italic-webfont.ttf') format('truetype'), 
+		url('../fonts/DroidSerif/DroidSerif-Italic-webfont.svg#webfontX4pGz9fc') format('svg');
+	font-weight: 400;
+	font-style: italic;
+}
+
+@font-face {
+	
+	font-family: 'Droid Serif';
+	src: url('../fonts/DroidSerif/DroidSerif-Regular-webfont.eot?') format('eot');
+	src: url('../fonts/DroidSerif/DroidSerif-Regular-webfont.woff') format('woff'), 		url('../fonts/DroidSerif/DroidSerif-Regular-webfont.ttf') format('truetype'), 
+		url('../fonts/DroidSerif/DroidSerif-Regular-webfont.svg#webfontX4pGz9fc') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	
+	font-family: 'Fontin Sans';
+	src: url('../fonts/FontinSans/FontinSans-Bold.eot?') format('eot');
+	src: url('../fonts/FontinSans/FontinSans-Bold.woff') format('woff'), 
+		url('../fonts/FontinSans/FontinSans-Bold.ttf') format('truetype'), 
+		url('../fonts/FontinSans/FontinSans-Bold.svg#webfontX4pGz9fc') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+
+
+@font-face {
+	
+	font-family: 'Fontin Sans';
+	src: url('../fonts/FontinSans/FontinSans-BoldItalic.eot?') format('eot');
+	src: url('../fonts/FontinSans/FontinSans-BoldItalic.woff') format('woff'), 
+		url('../fonts/FontinSans/FontinSans-BoldItalic.ttf') format('truetype'), 
+		url('../fonts/FontinSans/FontinSans-BoldItalic.svg#webfontX4pGz9fc') format('svg');
+	font-weight: 700;
+	font-style: italic;
+}
+
+
+@font-face {
+	
+	font-family: 'Fontin Sans';
+	src: url('../fonts/FontinSans/FontinSans-Italic.eot?') format('eot');
+	src: url('../fonts/FontinSans/FontinSans-Italic.woff') format('woff'),
+		url('../fonts/FontinSans/FontinSans-Italic.ttf') format('truetype'), 
+		url('../fonts/FontinSans/FontinSans-Italic.svg#webfontX4pGz9fc') format('svg');
+	font-weight: 400;
+	font-style: italic;
+}
+
+
+@font-face {
+	
+	font-family: 'Fontin Sans';
+		src: url('../fonts/FontinSans/FontinSans-Regular.eot?') format('eot');
+		src: url('../fonts/FontinSans/FontinSans-Regular.woff') format('woff'), 
+			url('../fonts/FontinSans/FontinSans-Regular.ttf') format('truetype'), 
+			url('../fonts/FontinSans/FontinSans-Regular.svg#webfontX4pGz9fc') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+
+@font-face {
+	
+	font-family: 'Kontrapunkt';
+	src: url('../fonts/Kontrapunkt/Kontrapunkt-Bold-webfont.eot?') format('eot');
+	src: url('../fonts/Kontrapunkt/Kontrapunkt-Bold-webfont.woff') format('woff'), 		url('../fonts/Kontrapunkt/Kontrapunkt-Bold-webfont.ttf') format('truetype'), 
+		url('../fonts/Kontrapunkt/Kontrapunkt-Bold-webfont.svg#webfontX4pGz9fc') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+
+
+@font-face {
+	
+	font-family: 'Kontrapunkt';
+	src: url('../fonts/Kontrapunkt/Kontrapunkt-Light-webfont.eot?') format('eot');
+	src: url('../fonts/Kontrapunkt/Kontrapunkt-Light-webfont.woff') format('woff'), 		url('../fonts/Kontrapunkt/Kontrapunkt-Light-webfont.ttf') format('truetype'), 
+		url('../fonts/Kontrapunkt/Kontrapunkt-Light-webfont.svg#webfontX4pGz9fc') format('svg');
+	font-weight: 200;
+	font-style: normal;
+}
+
+
+@font-face {
+	
+	font-family: 'Kontrapunkt';
+	src: url('../fonts/Kontrapunkt/Kontrapunkt-LightItalic-webfont.eot?') format('eot');
+	src: url('../fonts/Kontrapunkt/Kontrapunkt-LightItalic-webfont.woff') format('woff'), 
+		url('../fonts/Kontrapunkt/Kontrapunkt-LightItalic-webfont.ttf') format('truetype'), 
+		url('../fonts/Kontrapunkt/Kontrapunkt-LightItalic-webfont.svg#webfontX4pGz9fc') format('svg');
+	font-weight: 200;
+	font-style: italic;
+}
+
+
+
+@font-face {
+	
+	font-family: 'Droid Sans Mono';
+	src: url('../fonts/DroidSansMono/DroidSansMono-webfont.eot');
+	src: url('../fonts/DroidSansMono/DroidSansMono-webfont.woff') format('woff'), 		url('../fonts/DroidSansMono/DroidSansMono-webfont.ttf') format('truetype'), 		url('../fonts/DroidSansMono/DroidSansMono-webfont.svg#webfontX4pGz9fc') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}

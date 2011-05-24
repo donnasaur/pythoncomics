@@ -1,0 +1,294 @@
+html { 
+	height: 100%; width: 100%;
+}
+
+body {  		
+	display: block;
+	position: relative;
+	
+	height: 100%;
+	
+	font-size: 14px;
+	font-family: "Fontin Sans", "Lucida Grande", "Arial", "Helvetica", "Verdana", "Gill Sans", sans-serif;
+	color: #121310;
+	background: #f6f8ee;
+	
+}
+
+div {
+	
+	display: block;
+	position: relative;	
+}
+
+a:link, a:visited {
+	color: #899752;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #95aa61;
+	text-decoration: none;	
+}
+
+#header a{
+	
+	color: #ffffff;
+	text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+	font-family: "Droid Serif", "Georgia", "Times New Roman", "Palatino", "Hoefler Text", "Baskerville", serif;
+}
+
+p {
+
+	display: block;
+	position: relative;
+	
+	margin: 1em 1em 1em 1em;
+}
+
+#nonFooter {
+
+	display: block;
+	position: relative;
+	
+	min-height: 100%;
+}
+
+* html #nonFooter {
+
+	height: 100%;
+}
+
+#header {
+	display: block;
+	position: relative;
+	
+	background-color: #95aa61;
+	
+	padding-top: 50px;
+	padding-bottom: 16px;
+}
+
+#header > div.title {
+
+	display: block;
+	position: relative;
+	
+	width: 425px;
+	height: 61px;
+	
+	margin-right: auto;
+	margin-left: auto;	
+}
+
+#navigation > div.badges {
+	
+	display: block;
+	position: relative;
+	
+	width: 580px;
+	
+	margin: auto;
+}
+
+#navigation > div.badges > div {
+	
+	display: block;
+	position: absolute;
+	
+	width: 178px;
+	height: 178px;
+}
+
+#navigation > div.badges > div.left {
+	
+	background: url('../images/python.png') no-repeat;
+	
+	top: -140px;
+	left: -210px;
+}
+
+#navigation > div.badges > div.right {
+	
+	background: url('../images/computer.png') no-repeat;
+	top: -140px;
+	right: -210px;
+}
+
+#navigation {
+	
+	display: block;
+	position: relative;
+	
+	background-color: #d6e68a;
+	
+}
+
+#navigation ul {
+	
+	display: block;
+	position: relative;
+	
+	width: 582px;
+	height: 36px;
+	
+	margin: auto;
+	
+	list-style: none;
+}
+
+#navigation li {
+	
+	display: block;
+	position: relative;
+	float: left;
+	
+	margin-right: 25px;
+	margin-left: 25px;
+	
+	text-align: center;
+}
+
+#navigation li a {
+	
+	display: block;
+	position: relative;
+	
+	height: 36px;
+	line-height: 36px;
+	
+	text-decoration: none;
+	text-align: center;
+	font-family: "Kontrapunkt", Rockwell, serif;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+#content {
+	clear: both;
+	display: block;
+	position: relative;
+	
+	width: 640px;
+	height: 360px;
+	
+	padding: 1em;
+	margin: 70px auto 10px;
+	border: 5px #899752 solid;
+}	
+
+#content > .comic {
+	display: block;
+	position: relative;
+	
+	height: 305px;
+	width: 548px;
+	
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 27px;
+}
+
+#content > h1 {
+
+	font-size: 2em;
+	font-weight: bold;
+	
+	margin: 12px;
+}
+
+#content > .italics {
+
+	font-style: italic;
+}
+
+#content > .italics > p {
+
+	margin: 0px 1em 0px 1em;
+}
+
+#content > ul {
+
+	margin: 1em;
+}
+
+#nav_comics {
+	display: block;
+	position: relative;
+		
+	margin-right: auto;
+	margin-left: auto;
+	padding-bottom: 200px;
+}
+
+#nav_comics ul {
+
+	display: block;
+	position: relative;
+	
+	width: 640px;
+	height: 26px;
+	
+	margin: auto;
+	
+	list-style: none;
+}
+
+
+#nav_comics li {
+	display: block;
+	position: relative;
+	float: left;
+	
+	margin-left: 17px;
+	margin-right: 17px;
+	
+	text-align: center;
+}
+
+
+
+#nav_comics li a {
+	display: block;
+	position: relative;
+	
+	font-family: "Droid Sans Mono", Menlo, Courier New, Courier, Mono, monospace;
+	font-size: 26px;
+	text-decoration: none;
+	text-align: center;
+	
+}	
+
+#empty {
+
+	height: 226px;
+}
+
+div.hbar {
+	display: block;
+	position: relative;
+	
+	height: 135px;
+	
+	background: url('../images/hbar.png') repeat-x;
+}
+
+#footer {
+	clear: both;
+	
+	display: block;
+	position: relative;
+
+	font-size: 1em;
+	background-color: #95aa61;
+	
+	width: 100%;
+	
+	margin-top: -178px;
+	padding: 0px 0px 1px 0px;
+	text-align: center;
+}

@@ -12,13 +12,13 @@
 	<!--<![endif]-->
 	<!--[if gte IE 7]>
 		<link href="stylesheets/reset.css" media="screen, projection" rel="stylesheet" type="text/css" />
-		<link hfref="stylesheets/fonts.css" media="screen, projection" rel="stylesheet" type="text/css" />	
+		<link href="stylesheets/fonts.css" media="screen, projection" rel="stylesheet" type="text/css" />	
 		<link href="stylesheets/public.css" media="screen, projection" rel="stylesheet" type="text/css" />
 	<![endif]-->
 	<!--[if IE 6]>
 		<link rel="stylesheet" href="http://universal-ie6-css.googlecode.com/files/ie6.1.1.css" media="screen, projection">
 	<![endif]-->
-	</head>
+</head>
 
 <body id="home">
 	<div id="nonFooter">
